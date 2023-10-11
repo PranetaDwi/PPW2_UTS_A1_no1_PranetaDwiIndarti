@@ -5,6 +5,7 @@
 @endsection
 
 @section('content')
+<h1>PEMAIN</h1>
 <table class="table table-dark">
   <thead>
     <tr>
